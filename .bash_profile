@@ -1,0 +1,3 @@
+export JEKYLL_GITHUB_TOKEN=503a15e74b0b9593b74fbb65c49afb10fd8505b9
+
+export SSL_CERT_FILE=/home/savs95/cacert.pem
