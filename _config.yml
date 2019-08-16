@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Apoorv Vikram Singh"
   avatar           : "profile.png"
-  bio              : "Theory Person"
-  location         : "Bangalore"
+  bio              : "Project Associate at CSA, IISc"
+  location         :
   employer         :
 #  googlescholar    :
   email            : "apoorvsingh@iisc.ac.in"
