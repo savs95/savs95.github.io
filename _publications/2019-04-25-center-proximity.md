@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-center-proximity
 excerpt:
 date: 2019-04-25
-venue: 'AISTATS 2019'
+venue: 'AISTATS'
 paperurl: 'http://proceedings.mlr.press/v89/deshpande19a.html'
 citation: 'Amit Deshpande, Anand Louis, Apoorv Singh ; Proceedings of Machine Learning Research, PMLR 89:2087-2095, 2019'
 ---
