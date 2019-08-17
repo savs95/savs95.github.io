@@ -1,5 +1,5 @@
 ---
-title: "Approximation Algorithms For Cost-Balanced Clustering"
+title: "Approximation Algorithms for Cost-Balanced Clustering"
 collection: publications
 permalink: /publication/2009-10-01-cost-balanced
 excerpt:
