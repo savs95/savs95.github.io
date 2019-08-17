@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-cost-balanced
 excerpt:
 date: 2019-07-17
-venue: 'Submitted'
+venue: 'Preprint'
 #paperurl:
 citation: 'Amit Deshpande, Anand Louis, Deval Patel, Apoorv Singh'
 ---
