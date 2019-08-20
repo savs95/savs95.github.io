@@ -3,7 +3,7 @@ title: "Clustering Perturbation Resilient Instances"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-12-01-kmeans-min-max
-venue: "IIIT, Bangalore"
+venue: "IIIT-Bangalore"
 date: 2018-12-01
 location: "Bangalore, India"
 ---
