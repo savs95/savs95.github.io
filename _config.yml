@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Apoorv Vikram Singh"
   avatar           : "profile.png"
-  bio              : "Project Associate at CSA, IISc"
+  bio              : "Visiting Researcher at INRIA Lille"
   location         :
   employer         :
 #  googlescholar    :
-  email            : "apoorvsingh@iisc.ac.in"
+  email            : "apoor-vikram.singh@inria.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
