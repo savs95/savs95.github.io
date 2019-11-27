@@ -31,4 +31,6 @@ Let the optimum value of this objective function be $ OPT_1 $.
 
 The above scenario could be be true because convex relaxation guarantees nothing about sparsity of the solution. It only tells that $ OPT $ is closer to $ OPT_c $ than $ OPT_1 $. Turns out, in many cases, $ \ell_1 $-regularization forces the solution to be on the "low-dimensional" face of the polytope formed by the "atoms" (see [Convex Geometry of Linear Inverse Problems](https://arxiv.org/pdf/1012.0621.pdf)).  
 
-I also attended a [talk](http://seminaire.univ-lille1.fr/node/414) by [Dr Arthur Mensch](https://www.amensch.fr/), where he showed [an example](https://arxiv.org/pdf/1802.03676.pdf) (in the section on Smoothed max operators) where $ \ell_2^2 $ regularization lead to the sparsest solution! 
+I also attended a [talk](http://seminaire.univ-lille1.fr/node/414) by [Dr Arthur Mensch](https://www.amensch.fr/), where he showed [an example](https://arxiv.org/pdf/1802.03676.pdf) (in the section on Smoothed max operators) where $ \ell_2^2 $ regularization lead to the sparsest solution!   
+
+Looking forward to an interesting talk happening on December 3 by Stephane Chretien happening at [INRIA Lille](https://modal.lille.inria.fr/wikimodal/doku.php?id=seminars), on a new and simpler analysis of robust PCA using the descent cone approach mentioned/developed in the [Amelunxen, Lotz, McCoy, and Tropp. Living on the edge...](https://arxiv.org/abs/1303.6672) paper. 
