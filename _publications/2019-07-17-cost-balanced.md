@@ -5,8 +5,8 @@ permalink: /publication/2009-10-01-cost-balanced
 excerpt:
 date: 2019-07-17
 venue: 'Preprint'
-#paperurl:
-citation: 'Amit Deshpande, Anand Louis, Deval Patel, Apoorv Singh'
+paperurl: 'https://www.dropbox.com/s/r5uwemki3zfvvyb/min_max_km.pdf?dl=0'
+citation: 'Amit Deshpande, Anand Louis, Deval Patel, Apoorv Singh. Approximation Algorithm for Cost-Balanced Clustering. In Submission.'
 ---
 Clustering points in the Euclidean space is a fundamental problem in the theory of algorithms
 and in unsupervised learning.
@@ -21,5 +21,3 @@ we define its cost-balanced $k$-means cost as:
 In other words, we want to minimize the cost of the heaviest cluster or balance the cost of each cluster.
 For any $\varepsilon > 0$, we give a randomized algorithm with running time $\mathcal O\big({2^{poly \big({k/\varepsilon}\big)} n d }\big)$ that gives a $(1+\varepsilon)$-approximation to the optimal cost-balanced $k$-means and the similarly defined optimal cost-balanced $k$-median clustering, using $k$ clusters, with a constant probability. We define a more general version of the $k$-median clustering and the cost-balanced $k$-median clustering, and we name them $\ell_p$ cost $k$-clustering and $\ell_p$ cost-balanced $k$-clustering, respectively.
 Given a black-box algorithm which gives a constant factor approximation to the $\ell_p$ cost $k$-clustering, we show a procedure that runs in time $poly(n,k,p)$ which gives a bi-criteria $\mathcal O\big({1/\varepsilon^{1/p}}\big)$-approximation to the optimal $\ell_p$ cost-balanced $k$-clustering, using $(1+\varepsilon)k$ clusters.
-
-Find the link to the pre-print [here](https://www.dropbox.com/s/r5uwemki3zfvvyb/min_max_km.pdf?dl=0).
