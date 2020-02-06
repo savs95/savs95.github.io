@@ -1,0 +1,109 @@
+% LaTeX resume using res.cls
+\documentclass[line,margin]{res}
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=green,
+    filecolor=magenta,
+    urlcolor=[rgb]{0,.7,0},
+}
+\usepackage{xcolor}
+
+\begin{document}
+
+\name{\Large\textsc{Apoorv Vikram Singh}}
+% \address used twice to have two lines of address
+\address{MODAL Team, INRIA Lille, France}
+\address{Mail: \href{mailto:apoorv-vikram.singh@inria.fr}{\texttt{apoorv-vikram.singh@inria.fr}}}
+
+
+\begin{resume}
+
+%\section{\textsc{Research Interests}}  Approximation Algorithms, Randomized Algorithms, Spectral Algorithms,  Beyond Worst-Case Analysis, High-Dimensional Probability and Statistics, Numerical Linear Algebra, Optimization, Theoretical Machine Learning, Matrix Analysis.
+
+\section{\textsc{Experience}}
+                {\bf Visiting Researcher, INRIA Lille} \hfill Oct 2019- Current \\
+                {MODAL Team, INRIA Lille, France}\\
+                Advisor(s): Hemant Tyagi (INRIA Lille), Mihai Cucuringu (Univ. of Oxford)
+
+                {\bf Project Associate, IISc Bangalore} \hfill Aug 2018~-~  Aug 2019 \\
+                {Department of Computer Science and Automation, Indian Institute of Science (IISc)}\\
+                Advisor(s): {Prof Anand Louis} (IISc), {Dr Amit Deshpande} (Microsoft Research)
+
+                {\bf Narendra Summer Intern, IISc Bangalore} \hfill            Summer 2017 \\
+                Department of Computer Science and Automation, Indian Institute of Science\\
+                Advisor: {Prof Anand Louis} (IISc)
+
+
+
+\section{\textsc{Education}} {\bf International Institute of Information Technology Bangalore (IIITB)}  \\
+% \sl will be bold italic in New Century Schoolbook (or
+% any postscript font) and just slanted in
+% Computer Modern (default) font
+  {\sl Integrated Masters of Technology in Information Technology}\\
+  {Specialization: Theoretical Computer Science \\
+  CGPA: 3.36/4, Major GPA (Stream- CC,CS,IT): 3.6/4} \\
+  Thesis: \href{https://www.dropbox.com/s/zoa8nx5xoiehbgd/thesis.pdf?dl=0}{Clustering Perturbation Resilient Instances} \\
+  Advisor: {Prof G. Srinivasaraghavan}
+
+\begin{itemize}
+\section{\textsc{Publications}}
+                \item {\bf On Euclidean $k$-Means Clustering with $\alpha$-Center Proximity}\\
+                (with Amit Deshpande and Anand Louis) \\
+                \emph{ Accepted at \href{http://proceedings.mlr.press/v89/deshpande19a.html}{AISTATS 2019}},  \href{https://arxiv.org/abs/1804.10827}{\textcolor{blue}{(Link)}}
+
+                \item {\bf Approximation Algorithms for Cost-Balanced Clustering}\\
+                (with Amit Deshpande, Anand Louis, and Deval Patel) \\
+                \emph{ Preprint}, \href{https://www.dropbox.com/s/r5uwemki3zfvvyb/min_max_km.pdf?dl=0}{\textcolor{blue}{(Link)}}
+\end{itemize}
+\section{\textsc{Research Projects}}
+              {\bf Signed Stochastic Block Model} \hfill 2019-Current\\
+              This work is in collaboration with Dr Hemant Tyagi and Prof Mihai Cucuringu. In this project we are trying to come up with algorithms for the signed version of the stochastic block models in the sparse regime. We are also looking at algorithms for a more general model called finding hidden partitions, in the sparse regime. This work is funded by INRIA and Alan Turing Institute.
+
+
+              {\bf Clustering Stable Instances of Data} \hfill
+                2017-Current\\
+              This work is in collaboration with Anand Louis and Amit Deshpande. We are investigating various clustering objectives (spectral, min-max, k-means, etc.) and trying to come up with efficient algorithms for them, under assumptions that the input is ``nice" (or stable). This mainly requires looking at the geometry of the instances and exploiting that information. We are also attempting to explain the immense success of the Lloyd's heuristic, which is commonly used for $k$-means clustering.
+
+              {\bf Solving Linear Equations in High-Dimensional Space} \hfill Summer 2017\\
+              This work was done as part of the summer internship under Prof Anand Louis. We were trying to solve the system of linear equations faster when the ambient dimension of the space is very high, such that taking inner products proves to be an expensive task. We also explored various topics like gradient descent, compressed sensing, and phase transitions in convex optimization problems.
+
+\section{\textsc{Undergrad Research}}
+
+
+               {\bf Vehicle Routing Problem} \hfill Spring 2017\\
+              This work was done as part of a reading elective under {Prof V N Muralidhara} at \textsc{iiitb}. We were looking at the vehicle routing problem on various topologies like line, ring, tree, etc. and were trying to come up with approximation algorithms for it. We were able to show a quasi-polynomial time algorithm on a ring with splittable demands.
+
+              {\bf Tensor Decomposition} \hfill Fall 2016\\
+              This work was done as part of Machine Learning course project under Prof G. Srinivasaraghavan at \textsc{iiitb}. This was my first introduction to a theoretical research topic. The aim of the project was to come up with an efficient algorithm for tensor decomposition up to the uniqueness threshold. Most of the time was spent in reading and understanding the various literature on the topic.
+
+              {\bf Indian Railways Time-Tabling} \hfill Spring \& Fall 2016\\
+              This work was done as part of a project elective under {Prof GNS Prasanna} at \textsc{iiitb}. We worked on devising various algorithms for time-tabling a set of new trains into an already existing time-table, taking care of numerous constraints like the direction of the track, stoppage time at a station, etc. The project was coding intensive, and we used various heuristics to schedule the trains.
+
+\begin{itemize}
+\section{\textsc{Achievements}}
+  \item I was one of the 18 students selected by the Department of Computer Science and Automation, IISc for their summer internship program, called the {\bf Narendra Summer Internship}, 2017.
+  \item Our work on Indian Railways Time-Tabling titled \textit{Indian Railways: A heuristic based approach to solve problems in complex networks} was selected for {\bf poster presentation at Analytics 2017} (The INFORMS Conference on Business Analytics and Operations Research), held in Las Vegas, Apr 2-4, 2017.
+  \item Got selected for the \href{https://www.icts.res.in/program/paap2019}{\bf Summer School on Advances in Applied Probability 2019} organized by ICTS-TIFR  , and \href{https://www.dropbox.com/s/sthrucrghdsa87t/MLSS_Certificate.pdf?dl=0}{\bf Machine Learning Summer School, 2015} co-organised by Microsoft Research and IISc.
+\end{itemize}
+
+\begin{itemize}
+\section{\textsc{Presentations}}
+\item {\bf Clustering Stable Instances} \hfill 2018-2019  \\
+ Gave a \href{https://iiitbtheoryclub.github.io/talks/2018/12/01/clutering-perturbation.html}{talk} at the IIIT Bangalore Theory Club, ICTS-TIFR, and INRIA Lille on our work on clustering with center proximity and cost-balanced clustering. I also presented the \href{https://www.dropbox.com/s/rvypyyg0wyawz33/poster.pdf?dl=0}{poster} of our work at AISTATS 2019.
+ \item {\bf Convergence of Gradient Descent} \hfill Sept. 2017\\
+  Gave a talk at Microsoft Research in the Microsoft Research (MSR) - IISc theory reading group on the COLT 2016 paper by Lee et al., ``Gradient Descent Converges to Minimizers".
+\end{itemize}
+
+\begin{itemize}
+\section{\textsc{Miscellaneous}}
+\item Co-founded the \href{https://iiitbtheoryclub.github.io/}{\bf IIIT-Bangalore Theory Club}, with an objective to hold talks and reading groups, and solve questions.
+\item I was the teaching assistant for the \href{https://www.csa.iisc.ac.in/academics/academics-courses-desc.php}{\bf E0203: Spectral Algorithms} course at IISc in spring 2018 and \href{https://dltnp.github.io/}{\bf E0306: Deep Learning, Theory and Practice} in spring 2019. My duties were mainly checking assignment and exam papers and answering questions of students outside of the class hours.
+\end{itemize}
+
+\section{\textsc{Relevant \\ Courses}} Topics in Information Theory and Statistical Learning, Matrix Analysis and Positivity, Concentration Inequalities, Probability and Statistics in High-Dimensions, Spectral Algorithms, Real Analysis, Foundations of Big Data and Algorithms, Machine Learning 1 \& 2, Approximation Algorithms, Advanced Algorithms.
+
+\end{resume}
+\end{document}
