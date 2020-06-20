@@ -222,11 +222,20 @@
     \@ifundefined{@addresstwo}{
       % only one address
       \leavevmode\hbox to \textwidth{\hfil\@tablebox{\@addressone}\hfil}\par
-    }{
-      % two addresses
-      \leavevmode\hbox to \textwidth{\@tablebox{\@addressone}\hfil
-				     \@tablebox{\@addresstwo}}\par
-    }%
+    }{%
+      \@ifundefined{@addressthree}{
+        % two addresses
+       \leavevmode\hbox to \textwidth{\@tablebox{\@addressone}\hfil
+       \@tablebox{\@addresstwo}\hfil
+       \@tablebox{\@addressthree}}\par
+      }{
+        %three addresses
+        \leavevmode\hbox to \textwidth{\@tablebox{\@addressone}\hfil
+        \@tablebox{\@addresstwo}\hfil
+        \@tablebox{\@addressthree}\hfil
+        \@tablebox{\@addressboxthree}}\par
+      }
+    }
   }%
 \endgroup}
 
@@ -240,18 +249,19 @@
   {\namefont\@name}
 %  \vskip 2pt
 %  \fullline
-  \vskip 1pt
+  \vskip -2pt
   % where do you live?
   \@ifundefined{@addressone}{%
     % do nothing
-  }{%
-    \leavevmode\hbox to \textwidth
-      {\hfill\vbox{\hbox{\@addressone}
+  }
+{\leavevmode\hbox to \textwidth
+  {\hfill\vbox{\hbox{\@addressone}
 		   \hbox{\@addresstwo}
+       \hbox{\@addressthree}
 		  }%
       }\par
-    \fullline
-  }
+    \fullline}
+
 \endgroup}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -481,7 +491,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % create a multiline box.
 %
-\def\@tablebox#1{\begin{tabular}[t]{@{}l@{\extracolsep{\fill}}}#1\end{tabular}}
+\def\@tablebox#1{\begin{tabular}[t]{@{}l@{}}#1\end{tabular}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % use this to define your name
@@ -495,9 +505,20 @@
 %
 \let\@addressone\relax
 \let\@addresstwo\relax
+\let\@addressthree\relax
 
 \def\address#1{
-  \@ifundefined{@addressone}{\def\@addressone{#1}}{\def\@addresstwo{#1}}}
+  \@ifundefined{@addressone}{
+    \def\@addressone{#1}
+  }{
+    \@ifundefined{@addresstwo}{
+    \def\@addresstwo{#1}
+    }
+    {
+    \def\@addressthree{#1}
+    }
+  }
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % if you want to print your name and address is a slightly

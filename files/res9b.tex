@@ -1,5 +1,6 @@
 % LaTeX resume using res.cls
-\documentclass[line,margin]{res}
+%res2 modified to add three line of addresses
+\documentclass[line,margin]{res2}
 %\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
 %\usepackage{newcent}   % uses new century schoolbook postscript font
 \usepackage{hyperref}
@@ -9,14 +10,17 @@
     filecolor=magenta,
     urlcolor=[rgb]{0,.7,0},
 }
+\newcommand{\MYhref}[3][blue]{\href{#2}{\color{#1}{#3}}}%
+
 \usepackage{xcolor}
 
 \begin{document}
 
 \name{\Large\textsc{Apoorv Vikram Singh}}
-% \address used twice to have two lines of address
-\address{MODAL Team, INRIA Lille, France}
-\address{Mail: \href{mailto:apoorv-vikram.singh@inria.fr}{\texttt{apoorv-vikram.singh@inria.fr}}}
+ %\address used twice to have two lines of address
+%\address{MODAL Team, INRIA Lille }
+\address{Mail: \MYhref{mailto:savs95@gmail.com}{\texttt{savs95@gmail.com}}} \address{Web: \MYhref{www.savs95.github.io}{\texttt{savs95.github.io}}}
+%\address{yo how ar eyoue}
 
 
 \begin{resume}
@@ -24,9 +28,9 @@
 %\section{\textsc{Research Interests}}  Approximation Algorithms, Randomized Algorithms, Spectral Algorithms,  Beyond Worst-Case Analysis, High-Dimensional Probability and Statistics, Numerical Linear Algebra, Optimization, Theoretical Machine Learning, Matrix Analysis.
 
 \section{\textsc{Experience}}
-                {\bf Visiting Researcher, INRIA Lille} \hfill Oct 2019- Current \\
+                {\bf Visiting Researcher, INRIA Lille} \hfill Oct 2019~-~ Jan 2020 \\
                 {MODAL Team, INRIA Lille, France}\\
-                Advisor(s): Hemant Tyagi (INRIA Lille), Mihai Cucuringu (Univ. of Oxford)
+                Advisor(s): Dr Hemant Tyagi (INRIA Lille), Prof Mihai Cucuringu (Univ. of Oxford)
 
                 {\bf Project Associate, IISc Bangalore} \hfill Aug 2018~-~  Aug 2019 \\
                 {Department of Computer Science and Automation, Indian Institute of Science (IISc)}\\
@@ -44,7 +48,8 @@
 % Computer Modern (default) font
   {\sl Integrated Masters of Technology in Information Technology}\\
   {Specialization: Theoretical Computer Science \\
-  CGPA: 3.36/4, Major GPA (Stream- CC,CS,IT): 3.6/4} \\
+  {CGPA: 3.36/4, Major GPA (Stream- CC,CS,IT): 3.6/4}} \\
+  %CGPA: 3.36/4, Major GPA (Stream- CC,CS,IT): 3.6/4} \\
   Thesis: \href{https://www.dropbox.com/s/zoa8nx5xoiehbgd/thesis.pdf?dl=0}{Clustering Perturbation Resilient Instances} \\
   Advisor: {Prof G. Srinivasaraghavan}
 
