@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Apoorv Vikram Singh"
   avatar           : "profile.png"
-  bio              : "Visiting Researcher at INRIA Lille"
+  bio              : "Incoming CS PhD student at NYU Tandon"
   location         :
   employer         :
 #  googlescholar    :
-  email            : "apoorv-vikram.singh@inria.fr"
+  email            : "apoorv.singh@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
