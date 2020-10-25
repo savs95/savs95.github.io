@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 **Apoorv Vikram Singh**  
-*PhD Candidate*  
+*Ph.D. Candidate*  
 *Computer Science*  
 [*NYU Tandon*](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering)
 
 
-I am a first year PhD student at the department of Computer Science at the NYU Tandon School of Engineering, where I am supported by the School of Engineering Fellowship. I am a part of the [Algorithms and Foundations Group](https://wp.nyu.edu/tandonschoolofengineering-algorithms/), where I am being advised by [Dr Chris Musco](https://www.chrismusco.com/).  
+I am a first year Ph.D. student at the department of Computer Science at the NYU Tandon School of Engineering, where I am supported by the School of Engineering Fellowship. I am a part of the [Algorithms and Foundations Group](https://wp.nyu.edu/tandonschoolofengineering-algorithms/), where I am being advised by [Dr Chris Musco](https://www.chrismusco.com/).  
 
 Before joining NYU, I was a visiting researcher for four months at [INRIA Lille](https://www.inria.fr/fr/centre-inria-lille-nord-europe) where I worked with [Dr Hemant Tyagi](https://hemant-tyagi.github.io/) and [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) (Univ of Oxford). Before that I was a Project Associate for a year in the [Dept of Computer Science and Automation](https://www.csa.iisc.ac.in/), [Indian Institute of Science](https://iisc.ac.in/), where I worked with [Dr Anand Louis](https://www.csa.iisc.ac.in/~anandl/) and [Dr Amit Deshpande](https://www.microsoft.com/en-us/research/people/amitdesh/)  (Microsoft Research, India). I obtained my undergraduate degree from [IIIT Bangalore](https://www.iiitb.ac.in/).  
 
