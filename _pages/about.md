@@ -10,8 +10,9 @@ redirect_from:
 **Apoorv Vikram Singh**  
 *Ph.D. Candidate*  
 *Computer Science*  
-[NYU Tandon](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering)
+<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon_blue.png" alt="NYU Tandon" width="150" height="75"></a>   
 
+---
 
 I am a first year Ph.D. student at the department of Computer Science at the NYU Tandon School of Engineering, and I am supported by the School of Engineering Fellowship. I am a part of the [Algorithms and Foundations Group](https://wp.nyu.edu/tandonschoolofengineering-algorithms/), where I am being advised by [Dr Chris Musco](https://www.chrismusco.com/).  
 
