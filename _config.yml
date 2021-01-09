@@ -85,7 +85,7 @@ author:
   bio              : "CS PhD student at NYU Tandon"
   location         :
   employer         :
-#  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=fK0YNZIAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
