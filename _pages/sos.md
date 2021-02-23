@@ -14,5 +14,6 @@ author_profile: false
 
 **Resources**:
 - [Pravesh Kothari's Course](https://www.diderot.one/courses/58)
+- [Barak and Steurer's Course](https://www.sumofsquares.org/public/index.html)
 - [Teslil Schramm's Course](https://tselil.github.io/)
 - [Moses Charikar's Course](http://web.stanford.edu/class/cs369h/)
