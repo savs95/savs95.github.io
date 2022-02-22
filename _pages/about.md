@@ -33,10 +33,10 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 
 - **Regularized Spectral Methods for Clustering Signed Networks**  
 Mihai Cucuringu, Apoorv Vikram Singh, Déborah Sulem, Hemant Tyagi  
-*Preprint 2020* [[ArXiv]](https://arxiv.org/abs/2011.01737)
+*JMLR 2021* [[ArXiv]](https://arxiv.org/abs/2011.01737)
 - **Approximation Algorithms for Cost-Balanced Clustering**  
 Amit Deshpande, Anand Louis, Deval Patel, Apoorv Vikram Singh  
-*Preprint 2019* [[Link]](https://www.dropbox.com/s/r5uwemki3zfvvyb/min_max_km.pdf?dl=0)
+*Preprint 2019* [[Link]](/files/min_max_km.pdf)
 - **On Euclidean $k$-Means Clustering with $\alpha$-Center Proximity**  
 Amit Deshpande, Anand Louis, Apoorv Vikram Singh  
 *AISTATS 2019* [[ArXiv]](https://arxiv.org/abs/1804.10827)
