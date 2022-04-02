@@ -4,11 +4,11 @@ title: "SoS Reading Group"
 author_profile: false
 ---
 
-**The Plan**: 
+**Slides**: 
 * SoS basics [[Slides]](/files/sos1.pdf)
 * Max-Cut [[Slides]](/files/sos2.pdf)
 * ARV algorithm for graph expansion [[Slides]](/files/sos3.pdf)
-* Robust mean-estimation/ clustering mixtures of Gaussians (if time permits)
+* Robust mean-estimation/ clustering mixtures of Gaussians (if time permits -- it didn't!)
 
 
 
