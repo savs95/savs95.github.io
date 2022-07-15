@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: \#publications
 
+  - title: "Reading Group"
+    url: /reading/
+
   - title: "Presentations"
     url: /talks/
 
