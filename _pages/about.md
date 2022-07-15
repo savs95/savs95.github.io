@@ -19,7 +19,7 @@ I am a second year Ph.D. student at the department of Computer Science at the NY
 Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille where I worked with [Dr Hemant Tyagi](https://hemant-tyagi.github.io/) and [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) (Univ of Oxford). Before that I was a Project Associate in the Dept. of Computer Science and Automation, Indian Institute of Science, where I worked with [Dr Anand Louis](https://www.csa.iisc.ac.in/~anandl/) and [Dr Amit Deshpande](https://www.microsoft.com/en-us/research/people/amitdesh/)  (Microsoft Research, India). I obtained my undergraduate degree from [IIIT Bangalore](https://www.iiitb.ac.in/).  
 
 
-**Research Interests**: My research interests lie at the intersection of theoretical computer science and statistical machine learning. Currently, I am working on problems in the area of spectrum estimation of matrices in sub-linear time. I am also reading about Sum of Squares Hierarchy, and Discrepancy Theory (see [Reading Group](/reading/))
+**Research Interests**: My research interests lie at the intersection of theoretical computer science and statistical machine learning. Currently, I am working on problems in the area of spectrum estimation of matrices in sub-linear time. I am also reading about Sum of Squares Hierarchy, and Discrepancy Theory (see [Reading Group](/reading/)).
 
 ---
 
