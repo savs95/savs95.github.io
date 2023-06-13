@@ -9,3 +9,6 @@ author_profile: false
 * ARV algorithm for graph expansion [[Slides]](/files/sos3.pdf)
 * Discrepancy Theory Basics and Lovette Meka [[Slides]](/files/discrepancy.pdf)
 * Graph Sparsification, Twice Ramanujan Sparsifier [[Slides]](/files/sparsifiers.pdf)
+* Counting Bases of a Matroids [[Slides]](/files/matroid.pdf)
+* Second Moment Method [[Slides]](/files/secondmom.pdf)
+* The Kadison-Singer Problem [[Slides]](/files/ks.pdf)
