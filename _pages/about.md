@@ -14,7 +14,7 @@ redirect_from:
 
 ---
 
-I am a third year Ph.D. student at the department of Computer Science at the NYU Tandon School of Engineering. I am a part of the [Algorithms and Foundations Group](https://wp.nyu.edu/tandonschoolofengineering-algorithms/), where I am being advised by [Dr Chris Musco](https://www.chrismusco.com/).
+I am a third year Ph.D. candidate at the department of Computer Science at the NYU Tandon School of Engineering. I am a part of the [Algorithms and Foundations Group](https://wp.nyu.edu/tandonschoolofengineering-algorithms/), where I am being advised by [Dr Chris Musco](https://www.chrismusco.com/).
 
 Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille where I worked with [Dr Hemant Tyagi](https://hemant-tyagi.github.io/) and [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) (Univ of Oxford). Before that I was a Project Associate in the Dept. of Computer Science and Automation, Indian Institute of Science, where I worked with [Dr Anand Louis](https://www.csa.iisc.ac.in/~anandl/) and [Dr Amit Deshpande](https://www.microsoft.com/en-us/research/people/amitdesh/)  (Microsoft Research, India). I obtained my undergraduate degree from [IIIT Bangalore](https://www.iiitb.ac.in/).
 
@@ -47,6 +47,6 @@ Amit Deshpande, Anand Louis, Apoorv Vikram Singh
 
 # News
 - June 11, 2023: Attending the [Workshop on  Modern Techniques in  Graph Algorithms](https://sites.google.com/view/dimacswmtga/home?authuser=0) organized by DIMACS, Rutgers.
--  Will attend STOC 2023, and COLT 2023. 
+-  Will attend STOC 2023, and COLT 2023.
 - June 26, 2022: Attended the [Swedish Summer School on Theoretical Computer Science](https://s3cs.eecs.kth.se) organized by KTH.
 - Attended the summer school on [New tools for optimal mixing of Markov chains: Spectral independence and entropy decay](https://sites.cs.ucsb.edu/~vigoda/School/) at UCSB! Looking forward to learn more on approximate counting!
