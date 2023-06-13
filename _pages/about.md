@@ -7,12 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Apoorv Vikram Singh**
-
-*Ph.D. Candidate*
-
-*Computer Science*
-
+**Apoorv Vikram Singh**  
+*Ph.D. Candidate*  
+*Computer Science*  
 <a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon_blue.png" alt="NYU Tandon" width="150" height="75"></a>
 
 ---
