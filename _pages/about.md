@@ -49,4 +49,4 @@ Amit Deshpande, Anand Louis, Apoorv Vikram Singh
 - June 11, 2023: Attending the [Workshop on  Modern Techniques in  Graph Algorithms](https://sites.google.com/view/dimacswmtga/home?authuser=0) organized by DIMACS, Rutgers.
 -  Will attend STOC 2023, and COLT 2023.
 - June 26, 2022: Attended the [Swedish Summer School on Theoretical Computer Science](https://s3cs.eecs.kth.se) organized by KTH.
-- Attended the summer school on [New tools for optimal mixing of Markov chains: Spectral independence and entropy decay](https://sites.cs.ucsb.edu/~vigoda/School/) at UCSB! Looking forward to learn more on approximate counting!
+- Attended the summer school on [New tools for optimal mixing of Markov chains: Spectral independence and entropy decay](https://sites.cs.ucsb.edu/~vigoda/School/) at UCSB.
