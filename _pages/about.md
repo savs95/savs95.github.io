@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Apoorv Vikram Singh**  
-*Ph.D. Candidate*  
-*Computer Science*  
+**Apoorv Vikram Singh**
+*Ph.D. Candidate*
+*Computer Science*
 <a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon_blue.png" alt="NYU Tandon" width="150" height="75"></a>
 
 ---
@@ -46,7 +46,7 @@ Amit Deshpande, Anand Louis, Apoorv Vikram Singh
 ---
 
 # News
-- June 11, 2023: Attending the [Workshop on  Modern Techniques in  Graph Algorithms](https://sites.google.com/view/dimacswmtga/home?authuser=0) organized by DIMACS, Rutgers.
--  Will attend STOC 2023, and COLT 2023.
+-  Find me at STOC 2023 (Orlando, Florida, USA), and COLT 2023 (Bnagalore, India).
+- June 11, 2023: Attended the [Workshop on  Modern Techniques in  Graph Algorithms](https://sites.google.com/view/dimacswmtga/home?authuser=0) organized by DIMACS, Rutgers.
 - June 26, 2022: Attended the [Swedish Summer School on Theoretical Computer Science](https://s3cs.eecs.kth.se) organized by KTH.
 - Attended the summer school on [New tools for optimal mixing of Markov chains: Spectral independence and entropy decay](https://sites.cs.ucsb.edu/~vigoda/School/) at UCSB.
