@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Apoorv Vikram Singh**
-*Ph.D. Candidate*
+**Apoorv Vikram Singh**  
+*Ph.D. Candidate*  
 *Computer Science*  
 <a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon_blue.png" alt="NYU Tandon" width="150" height="75"></a>
 
@@ -31,16 +31,16 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 
 {% include base_path %}
 - **Moments, Random Walks, and Limits for Spectrum Approximation**
-Yujia Jin, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh
+Yujia Jin, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
 *COLT 2023* [[Link]](https://savs95.github.io/rw_sde.pdf)
 - **Regularized Spectral Methods for Clustering Signed Networks**
-Mihai Cucuringu, Apoorv Vikram Singh, Déborah Sulem, Hemant Tyagi
+Mihai Cucuringu, Apoorv Vikram Singh, Déborah Sulem, Hemant Tyagi  
 *JMLR 2021* [[ArXiv]](https://arxiv.org/abs/2011.01737)
 - **Approximation Algorithms for Cost-Balanced Clustering**
-Amit Deshpande, Anand Louis, Deval Patel, Apoorv Vikram Singh
+Amit Deshpande, Anand Louis, Deval Patel, Apoorv Vikram Singh  
 *Preprint 2019* [[Link]](/files/min_max_km.pdf)
 - **On Euclidean $k$-Means Clustering with $\alpha$-Center Proximity**
-Amit Deshpande, Anand Louis, Apoorv Vikram Singh
+Amit Deshpande, Anand Louis, Apoorv Vikram Singh    
 *AISTATS 2019* [[ArXiv]](https://arxiv.org/abs/1804.10827)
 
 ---
