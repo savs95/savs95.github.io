@@ -30,16 +30,16 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 {% endif %}
 
 {% include base_path %}
-- **Moments, Random Walks, and Limits for Spectrum Approximation**
+- **Moments, Random Walks, and Limits for Spectrum Approximation**  
 Yujia Jin, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
 *COLT 2023* [[Link]](https://savs95.github.io/rw_sde.pdf)
-- **Regularized Spectral Methods for Clustering Signed Networks**
+- **Regularized Spectral Methods for Clustering Signed Networks**  
 Mihai Cucuringu, Apoorv Vikram Singh, Déborah Sulem, Hemant Tyagi  
 *JMLR 2021* [[ArXiv]](https://arxiv.org/abs/2011.01737)
-- **Approximation Algorithms for Cost-Balanced Clustering**
+- **Approximation Algorithms for Cost-Balanced Clustering**  
 Amit Deshpande, Anand Louis, Deval Patel, Apoorv Vikram Singh  
 *Preprint 2019* [[Link]](/files/min_max_km.pdf)
-- **On Euclidean $k$-Means Clustering with $\alpha$-Center Proximity**
+- **On Euclidean $k$-Means Clustering with $\alpha$-Center Proximity**  
 Amit Deshpande, Anand Louis, Apoorv Vikram Singh    
 *AISTATS 2019* [[ArXiv]](https://arxiv.org/abs/1804.10827)
 
