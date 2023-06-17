@@ -46,7 +46,7 @@ Amit Deshpande, Anand Louis, Apoorv Vikram Singh
 ---
 
 # News
--  Find me at STOC 2023 (Orlando, Florida, USA), and COLT 2023 (Bnagalore, India).
+-  Find me at STOC 2023 (Orlando, Florida, USA) and COLT 2023 (Bangalore, India).
 - June 11, 2023: Attended the [Workshop on  Modern Techniques in  Graph Algorithms](https://sites.google.com/view/dimacswmtga/home?authuser=0) organized by DIMACS, Rutgers.
 - June 26, 2022: Attended the [Swedish Summer School on Theoretical Computer Science](https://s3cs.eecs.kth.se) organized by KTH.
 - Attended the summer school on [New tools for optimal mixing of Markov chains: Spectral independence and entropy decay](https://sites.cs.ucsb.edu/~vigoda/School/) at UCSB.
