@@ -32,7 +32,7 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 {% include base_path %}
 - **Moments, Random Walks, and Limits for Spectrum Approximation**  
 Yujia Jin, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
-*COLT 2023* [[Link]](https://savs95.github.io/rw_sde.pdf)
+*COLT 2023* [[ArXiv]](https://arxiv.org/abs/2307.00474)
 - **Regularized Spectral Methods for Clustering Signed Networks**  
 Mihai Cucuringu, Apoorv Vikram Singh, Déborah Sulem, Hemant Tyagi  
 *JMLR 2021* [[ArXiv]](https://arxiv.org/abs/2011.01737)
