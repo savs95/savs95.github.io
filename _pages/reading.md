@@ -12,3 +12,7 @@ author_profile: false
 * Counting Bases of a Matroids [[Slides]](/files/matroid.pdf)
 * Second Moment Method [[Slides]](/files/secondmom.pdf)
 * The Kadison-Singer Problem [[Slides]](/files/ks.pdf)
+
+
+## Algorithmic ML & DS Course (Fall 2023) Recitation 
+* Concentration Inequalities [[Slides]](/files/recitation1_apoorv.pdf) 
