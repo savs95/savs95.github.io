@@ -10,7 +10,7 @@ redirect_from:
 **Apoorv Vikram Singh**  
 *Ph.D. Candidate*  
 *Computer Science*  
-<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon_blue.png" alt="NYU Tandon" width="150" height="75"></a>
+<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/nyu_long.png" alt="NYU Tandon" width="150" height="75"></a>
 
 ---
 
@@ -19,7 +19,8 @@ I am a fourth year Ph.D. candidate at the department of Computer Science at the 
 Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille where I worked with [Dr Hemant Tyagi](https://hemant-tyagi.github.io/) and [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) (Univ of Oxford). Before that I was a Project Associate in the Dept. of Computer Science and Automation, Indian Institute of Science, where I worked with [Dr Anand Louis](https://www.csa.iisc.ac.in/~anandl/) and [Dr Amit Deshpande](https://www.microsoft.com/en-us/research/people/amitdesh/)  (Microsoft Research, India). I obtained my undergraduate degree from [IIIT Bangalore](https://www.iiitb.ac.in/).
 
 
-**Research Interests**: My research interests lie at the intersection of theoretical computer science and statistical machine learning. Currently, I am working on problems in the area of spectrum estimation of matrices in sub-linear time. I am also reading about Sum of Squares Hierarchy, and Discrepancy Theory (see [Reading Group](/reading/)).
+**Research Interests**: My research interests lie at the intersection of theoretical computer science and statistical machine learning, with a focus on theoretical foundations of big data. Currently, I am working on sublinear time graph problems and clustering problems. I am also interested in probabilistic combinatorics, Sum of Squares Hierarchy, and Discrepancy Theory (see [Reading Group](/reading/)).
+
 
 ---
 
@@ -30,6 +31,9 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 {% endif %}
 
 {% include base_path %}
+- **Faster Spectral Density Estimation and Sparsification in the Nuclear Norm**  
+Yujia Jin, Ishani Karmarkar, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
+*In Submission* 
 - **Moments, Random Walks, and Limits for Spectrum Approximation**  
 Yujia Jin, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
 *COLT 2023* [[ArXiv]](https://arxiv.org/abs/2307.00474)
@@ -46,6 +50,7 @@ Amit Deshpande, Anand Louis, Apoorv Vikram Singh
 ---
 
 # News
+- Attended the [Sketching and Algorithm Design](https://simons.berkeley.edu/workshops/sketching-algorithm-design) at the Simons Institute.
 -  Attended STOC 2023 (Orlando, Florida, USA) and COLT 2023 (Bangalore, Karnataka, India).
 - June 11, 2023: Attended the [Workshop on  Modern Techniques in  Graph Algorithms](https://sites.google.com/view/dimacswmtga/home?authuser=0) organized by DIMACS, Rutgers.
 - June 26, 2022: Attended the [Swedish Summer School on Theoretical Computer Science](https://s3cs.eecs.kth.se) organized by KTH.
