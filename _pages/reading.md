@@ -15,4 +15,5 @@ author_profile: false
 
 
 ## Algorithmic ML & DS Course (Fall 2023) Recitation 
-* Concentration Inequalities [[Slides]](/files/recitation1_apoorv.pdf) 
+* Concentration Inequalities [[Slides]](/files/recitation1_apoorv.pdf)
+* Course Review (Optimization and Spectral Graph Theory)  [[Slides]](/files/amlds_optz_graph.pdf)
