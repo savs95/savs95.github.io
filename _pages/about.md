@@ -33,7 +33,7 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 {% include base_path %}
 - **Faster Spectral Density Estimation and Sparsification in the Nuclear Norm**  
 Yujia Jin, Ishani Karmarkar, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
-*COLT 2024* [[Link]](/nuclear_sde.pdf)
+*COLT 2024* [[ArXiv]](https://arxiv.org/abs/2406.07521)
 - **Moments, Random Walks, and Limits for Spectrum Approximation**  
 Yujia Jin, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
 *COLT 2023* [[ArXiv]](https://arxiv.org/abs/2307.00474)
