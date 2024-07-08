@@ -33,10 +33,10 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 {% include base_path %}
 - **Faster Spectral Density Estimation and Sparsification in the Nuclear Norm**  
 Yujia Jin, Ishani Karmarkar, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
-*COLT 2024* [[ArXiv]](https://arxiv.org/abs/2406.07521)
+*COLT 2024* [[ArXiv]](https://arxiv.org/abs/2406.07521) [[Slides]](/files/colt24_slides.pdf)
 - **Moments, Random Walks, and Limits for Spectrum Approximation**  
 Yujia Jin, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
-*COLT 2023* [[ArXiv]](https://arxiv.org/abs/2307.00474)
+*COLT 2023* [[ArXiv]](https://arxiv.org/abs/2307.00474) [[Slides]](/files/colt23_slides.pdf)
 - **Regularized Spectral Methods for Clustering Signed Networks**  
 Mihai Cucuringu, Apoorv Vikram Singh, Déborah Sulem, Hemant Tyagi  
 *JMLR 2021* [[ArXiv]](https://arxiv.org/abs/2011.01737)
@@ -50,6 +50,7 @@ Amit Deshpande, Anand Louis, Apoorv Vikram Singh
 ---
 
 # News
+- Attended STOC 2024 (Vancouver, Canada) and COLT 2024 (Edmonton, Canada).
 - Attended the [Sketching and Algorithm Design](https://simons.berkeley.edu/workshops/sketching-algorithm-design) at the Simons Institute.
 -  Attended STOC 2023 (Orlando, Florida, USA) and COLT 2023 (Bangalore, Karnataka, India).
 - June 11, 2023: Attended the [Workshop on  Modern Techniques in  Graph Algorithms](https://sites.google.com/view/dimacswmtga/home?authuser=0) organized by DIMACS, Rutgers.
