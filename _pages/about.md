@@ -45,7 +45,7 @@ Amit Deshpande, Anand Louis, Deval Patel, Apoorv Vikram Singh
 *Preprint 2019* [[Link]](/files/min_max_km.pdf)
 - **On Euclidean $k$-Means Clustering with $\alpha$-Center Proximity**  
 Amit Deshpande, Anand Louis, Apoorv Vikram Singh    
-*AISTATS 2019* [[ArXiv]](https://arxiv.org/abs/1804.10827)
+*AISTATS 2019* [[ArXiv]](https://arxiv.org/abs/1804.10827) [[Slides]](/files/center_proximity.pdf)
 
 ---
 
