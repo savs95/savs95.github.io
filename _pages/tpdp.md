@@ -1,5 +1,5 @@
 ---
 permalink: /tpdp
 redirect_to:
-  - http://savs95.github.io/files/synthetic_data_tpdp.pdf
+  - https://arxiv.org/abs/2406.07521
 ---
