@@ -33,7 +33,7 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 {% include base_path %}
 - **Sharper Bounds for Chebyshev Moment Matching with Applications to Differential Privacy and Beyond**  
 Cameron Musco, Christopher Musco, Lucas Rosenblatt, Apoorv Vikram Singh  
-Abstract accepted at *TPDP 2024* [[ArXiv]]([/files/tpdp.pdf](https://arxiv.org/abs/2408.12385))
+Abstract accepted at *TPDP 2024* [[ArXiv]](https://arxiv.org/abs/2408.12385)
 - **Faster Spectral Density Estimation and Sparsification in the Nuclear Norm**  
 Yujia Jin, Ishani Karmarkar, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
 *COLT 2024* [[ArXiv]](https://arxiv.org/abs/2406.07521) [[Slides]](/files/colt24_slides.pdf)
