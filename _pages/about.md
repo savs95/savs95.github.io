@@ -53,6 +53,7 @@ Amit Deshpande, Anand Louis, Apoorv Vikram Singh
 ---
 
 # News
+- Attended the [Sublinear Graph Simplification Workshop](https://simons.berkeley.edu/workshops/sublinear-graph-simplification) at the Simons Institute.
 - Attended STOC 2024 (Vancouver, Canada) and COLT 2024 (Edmonton, Canada).
 - Attended the [Sketching and Algorithm Design](https://simons.berkeley.edu/workshops/sketching-algorithm-design) at the Simons Institute.
 -  Attended STOC 2023 (Orlando, Florida, USA) and COLT 2023 (Bangalore, Karnataka, India).
