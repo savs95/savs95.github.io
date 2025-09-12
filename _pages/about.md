@@ -14,7 +14,7 @@ redirect_from:
 
 ---
 
-I am a fifth year Ph.D. candidate at the department of Computer Science at the NYU Tandon School of Engineering. I am a part of the [Algorithms and Foundations Group](https://wp.nyu.edu/tandonschoolofengineering-algorithms/), where I am being advised by [Dr Chris Musco](https://www.chrismusco.com/).
+I am a final year Ph.D. candidate at the department of Computer Science at the NYU Tandon School of Engineering. I am a part of the [Algorithms and Foundations Group](https://wp.nyu.edu/tandonschoolofengineering-algorithms/), where I am being advised by [Dr Chris Musco](https://www.chrismusco.com/).
 
 Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille where I worked with [Dr Hemant Tyagi](https://hemant-tyagi.github.io/) and [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) (Univ of Oxford). Before that I was a Project Associate in the Dept. of Computer Science and Automation, Indian Institute of Science, where I worked with [Dr Anand Louis](https://www.csa.iisc.ac.in/~anandl/) and [Dr Amit Deshpande](https://www.microsoft.com/en-us/research/people/amitdesh/)  (Microsoft Research, India). I obtained my undergraduate degree from [IIIT Bangalore](https://www.iiitb.ac.in/).
 
@@ -31,10 +31,10 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 {% endif %}
 
 {% include base_path %}
-- **Sharper Bounds for Chebyshev Moment Matching with Applications to Differential Privacy and Beyond**  
+- **Sharper Bounds for Chebyshev Moment Matching, with Applications**   
 Cameron Musco, Christopher Musco, Lucas Rosenblatt, Apoorv Vikram Singh  
 *COLT 2025* [[ArXiv]](https://arxiv.org/abs/2408.12385) [[Slides]](/files/cheb_dp.pdf)  
-Abstract accepted at *TPDP 2024* 
+Preliminary version abstract accepted at *TPDP 2024* 
 - **Faster Spectral Density Estimation and Sparsification in the Nuclear Norm**  
 Yujia Jin, Ishani Karmarkar, Christopher Musco, Aaron Sidford, Apoorv Vikram Singh  
 *COLT 2024* [[ArXiv]](https://arxiv.org/abs/2406.07521) [[Slides]](/files/colt24_slides.pdf)
@@ -54,6 +54,7 @@ Amit Deshpande, Anand Louis, Apoorv Vikram Singh
 ---
 
 # News  
+- Gave a talk on Sharper Bounds for Chebyshev Moment Matching, with Applications at COLT 2025 in Lyon, and at Yale Student Theory Day.    
 - Gave a talk on moments, random walks, and limits for spectrum approximation at the Stanford CS Theory Lunch Seminar, and at Brown CS Theory Seminar [(video)](https://www.youtube.com/watch?v=osGtKGMXujw). 
 - Gave a talk on our work on Chebyshev moment matching at the  NYC Graduate Student TCS Day.  
 - Attended the [Sublinear Graph Simplification Workshop](https://simons.berkeley.edu/workshops/sublinear-graph-simplification) at the Simons Institute.
