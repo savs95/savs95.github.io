@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 **Apoorv Vikram Singh**  
-*Ph.D. Candidate*  
+*Ph.D.*  
 *Computer Science*  
 <a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/nyu_long.png" alt="NYU Tandon" width="150" height="75"></a>
 
 ---
 
-I am a final year Ph.D. candidate at the department of Computer Science at the NYU Tandon School of Engineering. I am a part of the [Algorithms and Foundations Group](https://wp.nyu.edu/tandonschoolofengineering-algorithms/), where I am being advised by [Dr Chris Musco](https://www.chrismusco.com/).
+I graduated from NYU in August 2026 with my PhD in computer science under the supervision of [Christopher Musco](https://www.chrismusco.com/). At NYU, I was a part of the [Algorithms and Foundations Group](https://wp.nyu.edu/tandonschoolofengineering-algorithms/).
 
 Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille where I worked with [Dr Hemant Tyagi](https://hemant-tyagi.github.io/) and [Dr Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) (Univ of Oxford). Before that I was a Project Associate in the Dept. of Computer Science and Automation, Indian Institute of Science, where I worked with [Dr Anand Louis](https://www.csa.iisc.ac.in/~anandl/) and [Dr Amit Deshpande](https://www.microsoft.com/en-us/research/people/amitdesh/)  (Microsoft Research, India). I obtained my undergraduate degree from [IIIT Bangalore](https://www.iiitb.ac.in/).
 
-
-**Research Interests**: My research interests lie at the intersection of theoretical computer science and statistical machine learning, with a focus on theoretical foundations of big data. Currently, I am working on sublinear time graph problems and clustering problems. I am also interested in probabilistic combinatorics, Sum of Squares Hierarchy, and Discrepancy Theory (see [Reading Group](/reading/)).
-
+**Research Interests**: My research lies at the intersection of numerical linear algebra, statistics, theoretical computer science, and machine learning. I develop fast, scalable algorithms with rigorous theoretical guarantees, with an emphasis on methods that remain effective on large, real-world datasets. My interests include randomized and sublinear algorithms, spectral and eigenvalue problems, moment matching, differential privacy, spectral graph theory, and information retrieval.
 
 ---
+I am currently on the job market and am interested in both academic and industry opportunities. On the academic side, I am seeking postdoctoral positions in numerical linear algebra, spectral graph theory, differential privacy, and related areas. In industry, I am interested in applied research and research engineering roles focused on large-scale information retrieval, machine learning and data science, numerical algorithms, and optimization.
+--- 
+
 
 # Publications
 
@@ -31,6 +32,12 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 {% endif %}
 
 {% include base_path %}
+- **Fast Schatten $p$-Norms From Rational Approximations**  
+Izzy Detherage, Apoorv Vikram Singh, Nicholas West  
+*Preprint 2026*
+- **ACME: Approximate Chebyshev Moment Estimation for Differentially Private Synthetic Data**  
+Lucas Rosenblatt, Apoorv Vikram Singh, Christopher Musco  
+*TPDP 2026*
 - **Sharper Bounds for Chebyshev Moment Matching, with Applications**   
 Cameron Musco, Christopher Musco, Lucas Rosenblatt, Apoorv Vikram Singh  
 *COLT 2025* [[ArXiv]](https://arxiv.org/abs/2408.12385) [[Slides]](/files/cheb_dp.pdf)  
@@ -54,6 +61,7 @@ Amit Deshpande, Anand Louis, Apoorv Vikram Singh
 ---
 
 # News  
+- Defended my Ph.D. thesis titled **Robust Moment Matching: Theory, Algorithms and Applications** (July 2026).
 - Gave a talk on Sharper Bounds for Chebyshev Moment Matching, with Applications at COLT 2025 in Lyon, and at Yale Student Theory Day.    
 - Gave a talk on moments, random walks, and limits for spectrum approximation at the Stanford CS Theory Lunch Seminar, and at Brown CS Theory Seminar [(video)](https://www.youtube.com/watch?v=osGtKGMXujw). 
 - Gave a talk on our work on Chebyshev moment matching at the  NYC Graduate Student TCS Day.  
