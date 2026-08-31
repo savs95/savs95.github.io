@@ -21,7 +21,8 @@ Before joining NYU, I was a visiting researcher at the MODAL team in INRIA Lille
 **Research Interests**: My research lies at the intersection of numerical linear algebra, statistics, theoretical computer science, and machine learning. I develop fast, scalable algorithms with rigorous theoretical guarantees, with an emphasis on methods that remain effective on large, real-world datasets. My interests include randomized and sublinear algorithms, spectral and eigenvalue problems, moment matching, differential privacy, spectral graph theory, and information retrieval.
 
 ---
-I am currently on the job market and am interested in both academic and industry opportunities. On the academic side, I am seeking postdoctoral positions in numerical linear algebra, spectral graph theory, differential privacy, and related areas. In industry, I am interested in applied research and research engineering roles focused on large-scale information retrieval, machine learning and data science, numerical algorithms, and optimization.
+I am currently on the job market and am interested in both academic and industry opportunities. On the academic side, I am seeking postdoctoral positions in numerical linear algebra, spectral graph theory, differential privacy, and related areas. In industry, I am interested in applied research and research engineering roles focused on large-scale information retrieval, machine learning and data science, numerical algorithms, and optimization.  
+
 --- 
 
 
